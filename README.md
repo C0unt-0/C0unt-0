@@ -1,7 +1,4 @@
-
-
-![icegif-95](https://github.com/C0unt-0/C0unt-0/assets/133084345/9ca813dc-542a-4e6d-b648-5ba5edad8b14)
-
+![ddd](https://github.com/C0unt-0/C0unt-0/assets/133084345/7d88cb41-5be6-40df-9521-1c5bb8f1ab02)
 <h1 align="center">Hi 👋, I'm Pubudu Nawarathna</h1>
 <p> <a href="https://www.linkedin.com/in/pubudu-hashan-nawarathna-6653971a0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
