@@ -25,7 +25,7 @@ $ whoami
 > Pubudu Nawarathna — AI/Security Enthusiast & Software Engineer
 
 $ cat current_mission.txt
-> Building the $n^{th}$ layer of the internet and software construction
+> Finding new ways to construct software and interact with data
 
 $ ls skills/
 > problem solving , architecting softwares
