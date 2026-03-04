@@ -13,9 +13,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pubudu-hashan-nawarathna-6653971a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pubudu_Nawarathna-00ff00?style=flat-square&logo=linkedin&logoColor=00ff00&labelColor=0d1117&color=00ff00" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Pubudu_Nawarathna-39d353?style=flat-square&logo=linkedin&logoColor=39d353&labelColor=0d1117&color=39d353" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Email-heshnawarathna%40gmail.com-00ff00?style=flat-square&logo=gmail&logoColor=00ff00&labelColor=0d1117&color=00ff00" alt="Email">
+  <img src="https://img.shields.io/badge/Email-heshnawarathna%40gmail.com-39d353?style=flat-square&logo=gmail&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Email">
 </p>
 
 ---
@@ -39,13 +39,13 @@ $ cat fun_fact.txt
 ### // Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00ff00?style=for-the-badge&logo=c&logoColor=00ff00&labelColor=0d1117" alt="C">
-  <img src="https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=00ff00&labelColor=0d1117" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-00ff00?style=for-the-badge&logo=nodedotjs&logoColor=00ff00&labelColor=0d1117" alt="Node.js">
-  <img src="https://img.shields.io/badge/JavaScript-00ff00?style=for-the-badge&logo=javascript&logoColor=00ff00&labelColor=0d1117" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Linux-00ff00?style=for-the-badge&logo=linux&logoColor=00ff00&labelColor=0d1117" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-00ff00?style=for-the-badge&logo=git&logoColor=00ff00&labelColor=0d1117" alt="Git">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-00ff00?style=for-the-badge&logoColor=00ff00&labelColor=0d1117" alt="Reverse Engineering">
+  <img src="https://img.shields.io/badge/C-39d353?style=for-the-badge&logo=c&logoColor=39d353&labelColor=0d1117" alt="C">
+  <img src="https://img.shields.io/badge/Python-39d353?style=for-the-badge&logo=python&logoColor=39d353&labelColor=0d1117" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-39d353?style=for-the-badge&logo=nodedotjs&logoColor=39d353&labelColor=0d1117" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-39d353?style=for-the-badge&logo=javascript&logoColor=39d353&labelColor=0d1117" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Linux-39d353?style=for-the-badge&logo=linux&logoColor=39d353&labelColor=0d1117" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-39d353?style=for-the-badge&logo=git&logoColor=39d353&labelColor=0d1117" alt="Git">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-39d353?style=for-the-badge&logoColor=39d353&labelColor=0d1117" alt="Reverse Engineering">
 </p>
 
 ---
@@ -53,12 +53,7 @@ $ cat fun_fact.txt
 ### // GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0unt-0&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&border_color=30363d&hide_border=false" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0unt-0&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&border=30363d" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0unt-0&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" height="165">
+  <img src="https://streak-stats.demolab.com/?user=C0unt-0&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&border=30363d" alt="GitHub Streak" height="165">
 </p>
 
 ---
@@ -75,5 +70,5 @@ $ cat fun_fact.txt
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Status-Online-00ff00?style=flat-square&labelColor=0d1117&color=00ff00" alt="Status">
+  <img src="https://img.shields.io/badge/System_Status-Online-39d353?style=flat-square&labelColor=0d1117&color=39d353" alt="Status">
 </p>
