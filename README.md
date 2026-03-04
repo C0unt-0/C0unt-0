@@ -22,16 +22,16 @@
 
 ```bash
 $ whoami
-> Pubudu Nawarathna — Security Enthusiast & Developer
+> Pubudu Nawarathna — AI/Security Enthusiast & Software Engineer
 
 $ cat current_mission.txt
-> Reverse Engineering and C
+> Building the $n^{th}$ layer of the internet and software construction
 
 $ ls skills/
-> nodejs  python  computer-science  cybersecurity
+> problem solving , architecting softwares
 
 $ cat fun_fact.txt
-> Cyberjunkie!
+> Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts... A graphic representation of data abstracted from banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding...
 ```
 
 ---
