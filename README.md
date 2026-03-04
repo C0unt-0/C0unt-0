@@ -53,12 +53,7 @@ $ cat fun_fact.txt
 ### // GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0unt-0&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=30363d&hide_border=false" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0unt-0&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&border=30363d" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0unt-0&layout=compact&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" height="165">
+  <img src="https://streak-stats.demolab.com/?user=C0unt-0&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&border=30363d" alt="GitHub Streak" height="165">
 </p>
 
 ---
