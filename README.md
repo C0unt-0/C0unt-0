@@ -45,7 +45,7 @@ $ cat fun_fact.txt
   <img src="https://img.shields.io/badge/JavaScript-39d353?style=for-the-badge&logo=javascript&logoColor=39d353&labelColor=0d1117" alt="JavaScript">
   <img src="https://img.shields.io/badge/Linux-39d353?style=for-the-badge&logo=linux&logoColor=39d353&labelColor=0d1117" alt="Linux">
   <img src="https://img.shields.io/badge/Git-39d353?style=for-the-badge&logo=git&logoColor=39d353&labelColor=0d1117" alt="Git">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-39d353?style=for-the-badge&logoColor=39d353&labelColor=0d1117" alt="Reverse Engineering">
+
 </p>
 
 ---
